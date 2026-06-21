@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+}
+.click {
+    color: rgb(255,255,255);
+    background-color: rgb(0,0,0);
+    font-weight: bold;
+}
+.no-click {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255,255,0);
+}
