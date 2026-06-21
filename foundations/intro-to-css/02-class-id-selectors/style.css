@@ -1,1 +1,26 @@
 /* Add CSS Styling */
+p {
+    color: black;
+    background-color: rgb(235, 71, 112);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+.odd_class{
+    font-size: 36px;
+}
+
+
+#first_id{
+    color: rgb(0, 0, 255);
+    background-color: rgb(255,255,255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+}
+
+#second_id{
+    color: rgb(0, 0 ,0);
+    background-color: rgb(0,255,0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+}
